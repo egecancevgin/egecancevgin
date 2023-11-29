@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Egecan</h1>
+
+<h3 align="center">A young software engineering student from Turkey 🇮🇳</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/egecan-evgin-6533931ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="egecan-evgin" height="30" width="40" /></a>
+
+</p>
+
+
 
 <!--
 **egecancevgin/egecancevgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
