@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Egecan</h1>
 
-<h3 align="center">A young software engineering student from Turkey 🇮🇳</h3>
+<h3 align="center">A young software engineering student from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
