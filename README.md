@@ -8,6 +8,6 @@
 </p>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,linux,redhat,bash,ansible,django,flask,fastapi,git,docker,elasticsearch,prometheus,grafana,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pandas,numpy,scipy,django,flask,fastapi,git,docker,linux,elasticsearch,prometheus,grafana)](https://skillicons.dev)
 
 
