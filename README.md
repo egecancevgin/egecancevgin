@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Egecan</h1>
 
-<h3 align="center">A Software Engineering student from Turkey</h3>
+<h3 align="center">A Junior Linux System Administrator</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -8,6 +8,6 @@
 </p>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,django,flask,fastapi,mongo,selenium,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,django,flask,fastapi,redhat,bash,git,docker)](https://skillicons.dev)
 
 
